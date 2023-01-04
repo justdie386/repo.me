@@ -6,7 +6,7 @@
     {
         "url": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
         "title": "Sample Package",
-        "package": "faith.jasons.samplepackage",
+        "package": "com.justdie.hidy",
         "hideShadow": false
     }
   ]
